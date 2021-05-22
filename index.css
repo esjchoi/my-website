@@ -9,6 +9,7 @@ div{
 }
 section{
     padding:25px;
+    border:1px;
 }
 #leftbar{
     background-color:darksalmon;
