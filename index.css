@@ -1,0 +1,27 @@
+div{
+    display:inline-block;
+    font-family:sans-serif;
+    background-color:aliceblue;
+    height:10px;
+    width:60px;
+    padding:20px;
+    border-color: black;
+}
+section{
+    padding:25px;
+}
+#leftbar{
+    background-color:darksalmon;
+    float:left;
+    padding-right:10px;
+    
+}
+
+#rightbar{
+    background-color:darkgray;
+    float:right;
+}
+#navbar{
+    background-color:cadetblue;
+}
+#sectionbelownavbar{width:500px;}
